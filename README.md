@@ -10,7 +10,7 @@ Implement a console application to be able to add, update, delete and get shippi
 
 Requirements: 
 - 	Use PHP 7.*
-- 	Use DDD, check these books [Domain-Driven Design](https://www.amazon.com/exec/obidos/ASIN/0321125215/domainlanguag-20 "Domain-Driven Design"), [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php "Domain-Driven Design in PHP")
+- 	Use DDD ([Domain-Driven Design](https://www.amazon.com/exec/obidos/ASIN/0321125215/domainlanguag-20 "Domain-Driven Design"), [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php "Domain-Driven Design in PHP"))
 - 	Use any storage you want for storing data, e.g. JSON files. ACID is not important here.
 - 	Cover an application service layer by unit tests. There is no need to cover all methods, just a couple to show the principle.
 - 	If you need you can use any PHP framework or just plain PHP.
