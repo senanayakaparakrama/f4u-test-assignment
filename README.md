@@ -6,7 +6,7 @@ Client can add a new address, modify an existing address or remove an existing a
 
 Shipping address includes country, city, zipcode, street.
 
-Implement a console application to be able to add, update, delete and get shipping addresses for a specific client. Also to get a client information by ID.
+Implement a console application to be able to add, update, delete and get shipping addresses for a specific client.
 
 Requirements: 
 - 	Use PHP 7.*
