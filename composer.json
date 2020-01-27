@@ -7,5 +7,9 @@
             "email": "dev.parakrama@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+        }
+      }
 }
