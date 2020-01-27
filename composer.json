@@ -1,0 +1,11 @@
+{
+    "name": "parakrama/f4u-test-assignment",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "parakrama",
+            "email": "dev.parakrama@gmail.com"
+        }
+    ],
+    "require": {}
+}
