@@ -1,2 +1,3 @@
 <?php
-echo "Test 4 u";
+require_once "vendor/autoload.php";
+new App\System\AppCore();
