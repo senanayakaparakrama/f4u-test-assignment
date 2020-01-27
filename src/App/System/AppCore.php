@@ -8,7 +8,6 @@ use App\Config\Config;
  */
 class AppCore extends Config
 {
-
     /**
      * AppCore constructor.
      */
